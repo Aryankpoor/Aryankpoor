@@ -6,7 +6,7 @@ I am Aryan Kapoor. I am a web and python developer. I am fluent in many language
 - 👯 I’m looking to collaborate on a Web based Game
 - 🤔 I’m looking for help with building PC
 - 💬 Ask me anything
-- 📫 How to reach me: https://instagram.com/codemojo_ ![imager](https://user-images.githubusercontent.com/64773763/91079151-4d38b680-e661-11ea-8cc8-10852cebd839.jpg)
+- 📫 How to reach me: https://instagram.com/codemojo_ 
 ![instagram](https://user-images.githubusercontent.com/64773763/91079154-4f9b1080-e661-11ea-9f0d-3927d47ac787.png)
 ![pimgS](https://user-images.githubusercontent.com/64773763/91079156-5033a700-e661-11ea-808e-1fcf86d54fc4.jpg)
 ![co](https://user-images.githubusercontent.com/64773763/91079175-575ab500-e661-11ea-8a32-c1bc07100651.png)
