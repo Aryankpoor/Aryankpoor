@@ -8,12 +8,8 @@ I am Aryan Kapoor. I am a web and python developer. I am fluent in many language
 - 💬 Ask me anything
 - 📫 How to reach me: https://instagram.com/codemojo_ 
 - ⚡ Fun fact: I am only 14 years old!!!!
-```
-print("Have fun scrolling through my repos")
-document.write("Hope all the projects work for you");
-<!--Visit my website with the link underneath-->
-```
-https://kapoor-aryan.netlify.app
+
+
 
 ![round36x36](https://user-images.githubusercontent.com/64773763/91079186-5cb7ff80-e661-11ea-9fab-4fbd78b9a103.png) me on Instagram
 
