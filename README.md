@@ -1,4 +1,4 @@
-![imager](https://user-images.githubusercontent.com/64773763/91079151-4d38b680-e661-11ea-8cc8-10852cebd839.jpg)### Hi there 👋
+### Hi there 👋
 I am Aryan Kapoor. I am a web and python developer. I am fluent in many languages such as HTML5, CSS3, Javascript, Python and it's libraries or modules whatever you can call it, Javascript frameworks such As React, Node etc
 
 - 🔭 I’m currently working on A portfolio website. Template available in my repositories.
@@ -14,6 +14,8 @@ document.write("Hope all the projects work for you");
 <!--Visit my website with the link underneath-->
 ```
 https://kapoor-aryan.netlify.app
+
+![round36x36](https://user-images.githubusercontent.com/64773763/91079186-5cb7ff80-e661-11ea-9fab-4fbd78b9a103.png) me on Instagram
 
 
 
