@@ -43,22 +43,28 @@ I am Aryan Kapoor. I am a web and python developer. I am fluent in many language
 
 
 ## I love to code!!!
-### Yeah I can go on coding forever with my laptop and coffee, with some dairy creamer and not too much coffee
 ![undraw_developer_activity_bv83](https://user-images.githubusercontent.com/64773763/91462332-b1e55280-e8a7-11ea-8ef5-1333ffda42b0.png)
+## Yeah I can go on coding forever with my laptop and coffee, with some dairy creamer and not too much coffee
 
 
 # What I love the most naturally :
- ## Pair Programming
+ ## Shared Workspace
    ![pair-programming](https://user-images.githubusercontent.com/64773763/91469590-34bedb00-e8b1-11ea-89d7-e5e242e5f560.png)
-   ## Yeah it comes to me naturally I would really love to grab a partner and start with a project.
+   ## I like working in shared workspace
+
    
  ## Tinkering in Terminal
-   ![terminal](https://user-images.githubusercontent.com/64773763/91469537-21ac0b00-e8b1-11ea-9cf4-12ff3917c41b.png)
+ ![terminal](https://user-images.githubusercontent.com/64773763/91469537-21ac0b00-e8b1-11ea-9cf4-12ff3917c41b.png)
    ## I love finding new features and loopholes in the windows terminal i.e command prompt. I also usually try to find some loopholes in downloading apps for example imagine I am on windows 10 is there any way I can download the windows terminal on windows 7 or PowerToys on win8.
 
 
+ ## Pair Programming
+ ![pair-programming](https://user-images.githubusercontent.com/64773763/91469531-207ade00-e8b1-11ea-942e-aff3498bf3a3.png)
+   ## Yeah it comes to me naturally I would really love to grab a partner and start with a project.
 
-
+ ## Open-source
+  ![open-source](https://user-images.githubusercontent.com/64773763/91469526-1fe24780-e8b1-11ea-82fd-e2409f15546a.png)
+   ## Oh I just love making and contributing to open-source content
 
 
 
