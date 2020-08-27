@@ -117,7 +117,7 @@
    
 # MY PROFILE PAGE :relieved: 
    ![profile](https://user-images.githubusercontent.com/64773763/91469536-21137480-e8b1-11ea-94a2-f3b5a09368f4.png)
-   ## And last but not the least (in fact the most) my profie site . You can view it [here](kapoor-aryan.netlify.app)
+   ## And last but not the least (in fact the most) my profie site . You can view it [here](https://kapoor-aryan.netlify.app)
    
    # THANKS FOR READING MY OWN README. :slightly_smiling_face: Hope you liked it.
    
