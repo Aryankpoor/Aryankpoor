@@ -9,6 +9,10 @@ I am Aryan Kapoor. I am a web and python developer. I am fluent in many language
 - 📫 How to reach me: https://instagram.com/codemojo_ 
 - ⚡ Fun fact: I am only 14 years old!!!!
 
+## Skills
+ #### [x] HTML5 
+ #### [x] CSS
+ #### [x] JAVASCRIPT
 
 
 
