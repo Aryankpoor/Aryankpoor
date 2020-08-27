@@ -22,13 +22,16 @@ I am Aryan Kapoor. I am a web and python developer. I am fluent in many language
 ### Currently Learning:
   #### **JAVASCRIPT FRAMEWORKS**
   #### **UI DESIGN WITH ADOBE XD**
-  #### **STATIC WEBSITE HOSTING WITH JEKYLL AN GATSBYJS**
+  #### **STATIC WEBSITE HOSTING WITH JEKYLL AN GATSBYJS**![undraw_gatsbyjs_st4g](https://user-images.githubusercontent.com/64773763/91462334-b27de900-e8a7-11ea-8aed-659907f00d33.png)
+  ![undraw_static_website_0107](https://user-images.githubusercontent.com/64773763/91462342-b3af1600-e8a7-11ea-9587-0544cdf765fa.png)
+  
   
 ## Want To Learn
   #### **JAVA AND SPRINGBOOT**
-  #### **WEB DEVELOPMENT WITH PYTHON (FLASK AND DJANGO) **
-  #### **UX DESIGN**
-  #### **VERSION CONTROL SYSTEM**
+  #### **WEB DEVELOPMENT WITH PYTHON (FLASK AND DJANGO)**
+  #### **UX DESIGN**  
+![undraw_switches_1js3](https://user-images.githubusercontent.com/64773763/91462344-b3af1600-e8a7-11ea-9209-518abe15375a.png)
+  #### **VERSION CONTROL SYSTEM** ![undraw_version_control_9bpv](https://user-images.githubusercontent.com/64773763/91462347-b447ac80-e8a7-11ea-9467-cc3504d23793.png)
   #### ![c-sharp](https://user-images.githubusercontent.com/64773763/91462319-af82f880-e8a7-11ea-87fb-5c5aacafec10.png) **C, C++ and C# desktop development**  ![c-](https://user-images.githubusercontent.com/64773763/91462311-adb93500-e8a7-11ea-955c-09708872f816.png)
   #### **GODOT**
   #### **FLUTTER**
@@ -40,14 +43,12 @@ I am Aryan Kapoor. I am a web and python developer. I am fluent in many language
 
 
 ## I love to code!!!
-### Yeah I can go on coding forever with myy laptop and coffee, with some dairy creamer and not t much coffee
+### Yeah I can go on coding forever with my laptop and coffee, with some dairy creamer and not too much coffee
 ![undraw_developer_activity_bv83](https://user-images.githubusercontent.com/64773763/91462332-b1e55280-e8a7-11ea-8ef5-1333ffda42b0.png)
 
 
-![undraw_gatsbyjs_st4g](https://user-images.githubusercontent.com/64773763/91462334-b27de900-e8a7-11ea-8aed-659907f00d33.png)
-![undraw_static_website_0107](https://user-images.githubusercontent.com/64773763/91462342-b3af1600-e8a7-11ea-9587-0544cdf765fa.png)
-![undraw_switches_1js3](https://user-images.githubusercontent.com/64773763/91462344-b3af1600-e8a7-11ea-9209-518abe15375a.png)
-![undraw_version_control_9bpv](https://user-images.githubusercontent.com/64773763/91462347-b447ac80-e8a7-11ea-9467-cc3504d23793.png)
+
+
 
 
 
