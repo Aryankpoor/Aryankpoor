@@ -48,7 +48,13 @@ I am Aryan Kapoor. I am a web and python developer. I am fluent in many language
 
 
 # What I love the most naturally :
-
+ ## Pair Programming
+   ![pair-programming](https://user-images.githubusercontent.com/64773763/91469590-34bedb00-e8b1-11ea-89d7-e5e242e5f560.png)
+   ## Yeah it comes to me naturally I would really love to grab a partner and start with a project.
+   
+ ## Tinkering in Terminal
+   ![terminal](https://user-images.githubusercontent.com/64773763/91469537-21ac0b00-e8b1-11ea-9cf4-12ff3917c41b.png)
+   ## I love finding new features and loopholes in the windows terminal i.e command prompt. I also usually try to find some loopholes in downloading apps for example imagine I am on windows 10 is there any way I can download the windows terminal on windows 7 or PowerToys on win8.
 
 
 
