@@ -21,6 +21,7 @@
  ## **PYTHON**
  ## **GAME DEVELOPMENT IN PYTHON AND JAVASCRIPT**
  ## **FRONT END WEB DEVELOPMENT**
+ ## **GIT AND GITHUB**
  
  
 # Currently Learning:
@@ -39,7 +40,7 @@
   ## ![c-sharp](https://user-images.githubusercontent.com/64773763/91462319-af82f880-e8a7-11ea-87fb-5c5aacafec10.png) **C, C++ and C# desktop development**  ![c-](https://user-images.githubusercontent.com/64773763/91462311-adb93500-e8a7-11ea-955c-09708872f816.png)
   ## **GODOT**
   ## **FLUTTER**
-  ## **PENETRATION TESTING**
+  ## **PENETRATION TESTING AND ETHICAL HACKING**
   ## **MOBILE DEVELOPMENT OTHER THAN FLUTTER**
   ## **UNREAL ENGINE AND UNITY**
   
