@@ -27,7 +27,7 @@
 # Currently Learning:
   ## **JAVASCRIPT FRAMEWORKS**
   ## **UI DESIGN WITH ADOBE XD**
-  ## **STATIC WEBSITE HOSTING WITH GATSBYJS ANDD HEXO **![undraw_gatsbyjs_st4g](https://user-images.githubusercontent.com/64773763/91462334-b27de900-e8a7-11ea-8aed-659907f00d33.png)
+  ## **STATIC WEBSITE HOSTING WITH GATSBYJS AND HEXO**![undraw_gatsbyjs_st4g](https://user-images.githubusercontent.com/64773763/91462334-b27de900-e8a7-11ea-8aed-659907f00d33.png)
   ![undraw_static_website_0107](https://user-images.githubusercontent.com/64773763/91462342-b3af1600-e8a7-11ea-9587-0544cdf765fa.png)
   
   
