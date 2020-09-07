@@ -22,27 +22,29 @@
  ## **GAME DEVELOPMENT IN PYTHON AND JAVASCRIPT**
  ## **FRONT END WEB DEVELOPMENT**
  ## **GIT AND GITHUB**
+ ## **DESKTOP DEVELOPMENT**
  
  
 # Currently Learning:
   ## **JAVASCRIPT FRAMEWORKS**
   ## **UI DESIGN WITH ADOBE XD**
-  ## **STATIC WEBSITE HOSTING WITH GATSBYJS AND HEXO**![undraw_gatsbyjs_st4g](https://user-images.githubusercontent.com/64773763/91462334-b27de900-e8a7-11ea-8aed-659907f00d33.png)
+  ## **APP DEVELOPMENT WITH IONIC**
   ![undraw_static_website_0107](https://user-images.githubusercontent.com/64773763/91462342-b3af1600-e8a7-11ea-9587-0544cdf765fa.png)
-  ## KOTLIN
+  ## **BACKEND WEB DEDVELOPMENT**
+  ## **C#**
   
   
 # Want To Learn
   ## **JAVA AND SPRINGBOOT**
   ## **WEB DEVELOPMENT WITH PYTHON (FLASK AND DJANGO)**
-  ## **UX DESIGN**  
+  ## **UI AND UX DESIGN**  
 ![undraw_switches_1js3](https://user-images.githubusercontent.com/64773763/91462344-b3af1600-e8a7-11ea-9209-518abe15375a.png)
   ## **VERSION CONTROL SYSTEM** ![undraw_version_control_9bpv](https://user-images.githubusercontent.com/64773763/91462347-b447ac80-e8a7-11ea-9467-cc3504d23793.png)
   ## ![c-sharp](https://user-images.githubusercontent.com/64773763/91462319-af82f880-e8a7-11ea-87fb-5c5aacafec10.png) **C, C++ and C# desktop development**  ![c-](https://user-images.githubusercontent.com/64773763/91462311-adb93500-e8a7-11ea-955c-09708872f816.png)
   ## **GODOT**
-  ## **FLUTTER**
+  ## **FLUTTER ANDD KOTLIN**
   ## **PENETRATION TESTING AND ETHICAL HACKING**
-  ## **MOBILE DEVELOPMENT OTHER THAN FLUTTER**
+  ## **MOBILE DEVELOPMENT USING JAVA**
   ## **UNREAL ENGINE AND UNITY**
   
 ## View my web resources here:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://user-images.githubusercontent.com/64773763/91462315-aeea6200-e8a7-11ea-9df5-34450322fc06.png)
@@ -52,8 +54,7 @@
 ![undraw_developer_activity_bv83](https://user-images.githubusercontent.com/64773763/91462332-b1e55280-e8a7-11ea-8ef5-1333ffda42b0.png)
 ## Yeah I can go on coding forever with my laptop and coffee, with some dairy creamer and not too much coffee. Even on github, my developer activity is increasing everyday.
 
-
-```# And the Hall of Dev SKILLS```
+ # **THE HALL OF DEV SKILLS**
  # Shared Workspace
    ![pair-programming](https://user-images.githubusercontent.com/64773763/91469590-34bedb00-e8b1-11ea-89d7-e5e242e5f560.png)
    ## I like working in shared workspace
