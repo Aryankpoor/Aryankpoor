@@ -91,7 +91,7 @@
    
  # Music
    ![Music](https://user-images.githubusercontent.com/64773763/91469511-1c4ec080-e8b1-11ea-8d27-c5f233c3d15a.png)
-   ## Music is my third love. (Sorry 1st is my family and secondd is coding not music). it is a must for me when I am programming alone.
+   ## Music is my third love. (Sorry 1st is my family and second is coding not music). it is a must for me when I am programming alone.
    
  # NextJS
    ![nextJS](https://user-images.githubusercontent.com/64773763/91469525-1fe24780-e8b1-11ea-9718-bf1620fe74a4.png)
