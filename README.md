@@ -30,7 +30,7 @@
   ## **UI DESIGN WITH ADOBE XD**
   ## **APP DEVELOPMENT WITH IONIC**
   ![undraw_static_website_0107](https://user-images.githubusercontent.com/64773763/91462342-b3af1600-e8a7-11ea-9587-0544cdf765fa.png)
-  ## **BACKEND WEB DEDVELOPMENT**
+  ## **BACKEND WEB DEVELOPMENT**
   ## **C#**
   
   
