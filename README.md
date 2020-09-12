@@ -1,13 +1,12 @@
 # Hi there 👋
 ## I am Aryan Kapoor. I am a web and python developer. I am fluent in many languages such as HTML5, CSS3, Javascript, Python and it's libraries or modules whatever you can call it, Javascript frameworks such As React, Node etc
 
-![programmer](https://user-images.githubusercontent.com/64773763/91469596-36889e80-e8b1-11ea-9199-ec4a635bcb4d.png)
 - 🔭 I’m currently working on A portfolio website. Template available in my repositories.
 - 🌱 I’m currently learning Backend web development, Javascript frameworks, and desktop development with some other things
-- 👯 I’m looking to collaborate on a Web based Game
+- 👯 I’m looking to collaborate on a Chat App
 - 🤔 I’m looking for help with building PC
 - 💬 Ask me anything
-- 📫 How to reach me: https://instagram.com/codemojo_ 
+- 📫 How to reach me: [click on me!](https://www.instagram.com/__aryan04/)
 - ⚡ Fun fact: I am only 14 years old!!!!
 
 #  I am Mainly A web developer and then a software developer
