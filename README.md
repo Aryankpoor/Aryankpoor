@@ -70,14 +70,7 @@
    ![proud-again](https://user-images.githubusercontent.com/64773763/91469514-1ce75700-e8b1-11ea-94f1-6943756ff29f.png)
    ## I am proud of what I made and I am learning and making. I will be proud of what I make and what I learn in the future. I am a proud Developer and I know it.
 
- 
- # Netflix clone
-   ![netflix](https://user-images.githubusercontent.com/64773763/91469523-1f49b100-e8b1-11ea-90c7-b20eca4b907a.png)
-   ## I like making clones. I guess my first project will be netflix.
-   
-# Sports 
-   ![football](https://user-images.githubusercontent.com/64773763/91469520-1e188400-e8b1-11ea-883f-44f29146ad3f.png)
-   ## I am not those who just sit all day in their house looking at their desktops. No. I love football. 
+
    
 # Game Development and Playing
    ![controller](https://user-images.githubusercontent.com/64773763/91469518-1e188400-e8b1-11ea-9245-716184198c87.png)
