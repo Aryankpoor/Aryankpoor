@@ -49,16 +49,6 @@
 ## View my web resources here:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://user-images.githubusercontent.com/64773763/91462315-aeea6200-e8a7-11ea-9df5-34450322fc06.png)
 
 
-# I love to code!!!
-![undraw_developer_activity_bv83](https://user-images.githubusercontent.com/64773763/91462332-b1e55280-e8a7-11ea-8ef5-1333ffda42b0.png)
-## I can go on coding forever with my laptop and coffee . Even on github, my developer activity is increasing everyday.
-
-
- # Tinkering With Systems
- ![terminal](https://user-images.githubusercontent.com/64773763/91469537-21ac0b00-e8b1-11ea-9cf4-12ff3917c41b.png)
-   ## I love finding new features and loopholes in the windows terminal i.e command prompt. I also usually try to find some loopholes in systems for example imagine I am on windows 10 is there any way I can download the windows terminal on windows 7 or PowerToys on win8.
-
-
  # Open-source
   ![open-source](https://user-images.githubusercontent.com/64773763/91469526-1fe24780-e8b1-11ea-82fd-e2409f15546a.png)
    ## Oh I just love making and contributing to open-source content
@@ -67,24 +57,9 @@
    ![back-end](https://user-images.githubusercontent.com/64773763/91469541-2375ce80-e8b1-11ea-99b9-2b630cd497fc.png)
    ## Though I am a front-end web developer and to be UI designer I am aiming for full-stack-developer. But I do not know any backend. Not today. But one Day I will. 
    
- 
- # My Achievments
-   ![proud-again](https://user-images.githubusercontent.com/64773763/91469514-1ce75700-e8b1-11ea-94f1-6943756ff29f.png)
-   ## I am proud of what I made and I am learning and making. I will be proud of what I make and what I learn in the future. I am a proud Developer and I know it.
-
-
+    
    
-# Game Development and Playing
-   ![controller](https://user-images.githubusercontent.com/64773763/91469518-1e188400-e8b1-11ea-9245-716184198c87.png)
-   ## I am actually kind of a gamer and play games. I really want to make games in C++ and C# but I usually make games in JS like [battleship](https://github.com/Aryankpoor/Battleship-in-JS)
-   
-
-   
-# Bug Fixing
-   ![bugs](https://user-images.githubusercontent.com/64773763/91469505-1a84fd00-e8b1-11ea-95b5-dc643fb2c163.png)
-   ## Debugging is not what I am 'impossible to match at' but I kind of like finding bugs in the code
-   
-# MY PROFILE PAGE :relieved: 
+# MY PROFILE PAGE 
    ![profile](https://user-images.githubusercontent.com/64773763/91469536-21137480-e8b1-11ea-94a2-f3b5a09368f4.png)
    ## And last but not the least (in fact the most) my profile site . You can view it [here](https://kapoor-aryan.netlify.app)
    
