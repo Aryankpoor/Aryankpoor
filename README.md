@@ -4,6 +4,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankpoor)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on A portfolio website. Template available in my repositories.
 - 🌱 I’m currently learning Backend web development, Javascript frameworks, and desktop development with some other things
 - 👯 I’m looking to collaborate on a Chat App
