@@ -1,11 +1,13 @@
 # Hi there 👋
 ## I am Aryan Kapoor. I am a web and python developer. I am fluent in many languages such as HTML5, CSS3, Javascript, Python and it's libraries or modules whatever you can call it, Javascript frameworks such As React, Node etc
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=radical&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankpoor)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working on A portfolio website. Template available in my repositories.
 - 🌱 I’m currently learning Backend web development, Javascript frameworks, and desktop development with some other things
 - 👯 I’m looking to collaborate on a Chat App
