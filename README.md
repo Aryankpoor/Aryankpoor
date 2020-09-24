@@ -11,8 +11,6 @@
 - 📫 How to reach me: [click on me!](https://www.instagram.com/__aryan04/)
 - ⚡ Fun fact: I am only 14 years old!!!!
 
-#  I am Mainly A web developer and then a software developer
-![image](https://user-images.githubusercontent.com/64773763/91469517-1d7fed80-e8b1-11ea-9c04-526e9496e130.png)
 
 # Skills
  ## ![html (1)](https://user-images.githubusercontent.com/64773763/91462326-b0b42580-e8a7-11ea-9eda-8459a0faec07.png)**HTML5**
