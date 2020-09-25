@@ -41,7 +41,7 @@
   ####  JAVA AND SPRINGBOOT
   ####  WEB DEVELOPMENT WITH PYTHON (FLASK AND DJANGO)
   ####  UI AND UX DESIGN
-  ####  VERSION CONTROL SYSTEM ![undraw_version_control_9bpv](https://user-images.githubusercontent.com/64773763/91462347-b447ac80-e8a7-11ea-9467-cc3504d23793.png)
+  ####  VERSION CONTROL SYSTEM 
   #### ![c-sharp](https://user-images.githubusercontent.com/64773763/91462319-af82f880-e8a7-11ea-87fb-5c5aacafec10.png) **C, C++ and C# desktop development**  ![c-](https://user-images.githubusercontent.com/64773763/91462311-adb93500-e8a7-11ea-955c-09708872f816.png)
   ####  GODOT
   ####  FLUTTER ANDD KOTLIN
@@ -51,15 +51,8 @@
   
 #### View my web resources here:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://user-images.githubusercontent.com/64773763/91462315-aeea6200-e8a7-11ea-9df5-34450322fc06.png)
 
- ## Aim to Full Stack Developer
-   ![back-end](https://user-images.githubusercontent.com/64773763/91469541-2375ce80-e8b1-11ea-99b9-2b630cd497fc.png)
-   #### Though I am a front-end web developer and to be UI designer I am aiming for full-stack-developer. But I do not know any backend. Not today. But one Day I will. 
-   
-    
-   
-## MY PROFILE PAGE 
-   ![profile](https://user-images.githubusercontent.com/64773763/91469536-21137480-e8b1-11ea-94a2-f3b5a09368f4.png)
-   #### And last but not the least (in fact the most) my profile site . You can view it [here](https://kapoor-aryan.netlify.app)
+ 
+   #### And last but not the least my profile page . You can view it [here](https://kapoor-aryan.netlify.app)
    
   #### THANKS FOR READING MY OWN README. :slightly_smiling_face: Hope you liked it.
    
