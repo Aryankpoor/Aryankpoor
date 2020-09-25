@@ -22,7 +22,6 @@
  #### ![html (1)](https://user-images.githubusercontent.com/64773763/91462326-b0b42580-e8a7-11ea-9eda-8459a0faec07.png)**HTML5**
  #### ![css](https://user-images.githubusercontent.com/64773763/91462321-b01b8f00-e8a7-11ea-9fc6-006e05ddd2db.png)**CSS**
  #### **JAVASCRIPT**
- ![undraw_static_assets_rpm6](https://github.com/Aryankpoor/Aryankpoor/blob/master/image/91462341-b3167f80-e8a7-11ea-8df7-39e6e88aa334.jpg)
  #### PYTHON
  #### GAME DEVELOPMENT IN PYTHON AND JAVASCRIPT
  #### FRONT END WEB DEVELOPMENT
@@ -50,19 +49,19 @@
   ####  MOBILE DEVELOPMENT USING JAVA
   ####  UNREAL ENGINE AND UNITY
   
-## View my web resources here:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://user-images.githubusercontent.com/64773763/91462315-aeea6200-e8a7-11ea-9df5-34450322fc06.png)
+#### View my web resources here:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://user-images.githubusercontent.com/64773763/91462315-aeea6200-e8a7-11ea-9df5-34450322fc06.png)
 
- # Aim to Full Stack Developer
+ ## Aim to Full Stack Developer
    ![back-end](https://user-images.githubusercontent.com/64773763/91469541-2375ce80-e8b1-11ea-99b9-2b630cd497fc.png)
-   ## Though I am a front-end web developer and to be UI designer I am aiming for full-stack-developer. But I do not know any backend. Not today. But one Day I will. 
+   #### Though I am a front-end web developer and to be UI designer I am aiming for full-stack-developer. But I do not know any backend. Not today. But one Day I will. 
    
     
    
-# MY PROFILE PAGE 
+## MY PROFILE PAGE 
    ![profile](https://user-images.githubusercontent.com/64773763/91469536-21137480-e8b1-11ea-94a2-f3b5a09368f4.png)
-   ## And last but not the least (in fact the most) my profile site . You can view it [here](https://kapoor-aryan.netlify.app)
+   #### And last but not the least (in fact the most) my profile site . You can view it [here](https://kapoor-aryan.netlify.app)
    
-   # THANKS FOR READING MY OWN README. :slightly_smiling_face: Hope you liked it.
+  #### THANKS FOR READING MY OWN README. :slightly_smiling_face: Hope you liked it.
    
    
    
