@@ -3,7 +3,7 @@
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=radical)](https://kapoor-aryan.netlify.app)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor)](https://github.com/anuraghazra/github-readme-stats)
 
