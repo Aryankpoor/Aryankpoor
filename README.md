@@ -1,12 +1,7 @@
-# Hi there 👋
-## I am Aryan Kapoor. I am a web and python developer. I am fluent in many languages such as HTML5, CSS3, Javascript, Python and Javascript frameworks such As React and Node 
+### Hi there 👋
+#### I am Aryan Kapoor. I am a web and python developer. I am fluent in many languages such as HTML5, CSS3, Javascript, Python and Javascript frameworks such As React and Node 
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=radical)](https://kapoor-aryan.netlify.app)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor)](https://github.com/anuraghazra/github-readme-stats)
-
 
 - 🔭 I’m currently working on A portfolio website. Template available in my repositories.
 - 🌱 I’m currently learning Backend web development, Javascript frameworks, and desktop development with some other things
@@ -16,9 +11,10 @@
 - 📫 How to reach me: [click on me!](https://www.instagram.com/__aryan04/)
 - ⚡ Fun fact: I am only 14 years old!!!!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Skills
+### Skills
  #### ![html (1)](https://user-images.githubusercontent.com/64773763/91462326-b0b42580-e8a7-11ea-9eda-8459a0faec07.png)**HTML5**
  #### ![css](https://user-images.githubusercontent.com/64773763/91462321-b01b8f00-e8a7-11ea-9fc6-006e05ddd2db.png)**CSS**
  #### **JAVASCRIPT**
@@ -28,8 +24,10 @@
  ####  GIT AND GITHUB
  ####  DESKTOP DEVELOPMENT
  
+[![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor)](https://github.com/anuraghazra/github-readme-stats)
+
  
-# Currently Learning:
+### Currently Learning:
   #### JAVSCRIPT FRAMEWORKS
   #### UI DESIGN WITH ADOBE XD
   ####  APP DEVELOPMENT WITH IONIC
@@ -37,7 +35,7 @@
   ####  C#
   
   
-# Want To Learn
+### Want To Learn
   ####  JAVA AND SPRINGBOOT
   ####  WEB DEVELOPMENT WITH PYTHON (FLASK AND DJANGO)
   ####  UI AND UX DESIGN
