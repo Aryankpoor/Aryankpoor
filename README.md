@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I am Aryan Kapoor. I am a web and python developer. I am fluent in many languages such as HTML5, CSS3, Javascript, Python and Javascript frameworks such As React and Node 
 
-[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=radical)](https://kapoor-aryan.netlify.app)
+[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight)](https://kapoor-aryan.netlify.app)
 
 - 🔭 I’m currently working on A portfolio website. Template available in my repositories.
 - 🌱 I’m currently learning Backend web development, Javascript frameworks, and desktop development with some other things
@@ -11,7 +11,7 @@
 - 📫 How to reach me: [click on me!](https://www.instagram.com/__aryan04/)
 - ⚡ Fun fact: I am only 14 years old!!!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills
