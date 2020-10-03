@@ -3,7 +3,7 @@
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight)](https://kapoor-aryan.netlify.app)
 
-- 🔭 I’m currently working on A portfolio website. Template available in my repositories.
+- 🔭 I’m currently working on A portfolio website. Template available in my repositories. Till then meet me at my netlify page at the bottom of the page.
 - 🌱 I’m currently learning Backend web development, Javascript frameworks, and desktop development with some other things
 - 👯 I’m looking to collaborate on a Chat App
 - 🤔 I’m looking for help with building PC
@@ -21,8 +21,8 @@
  #### PYTHON
  #### GAME DEVELOPMENT IN PYTHON AND JAVASCRIPT
  #### FRONT END WEB DEVELOPMENT
- ####  GIT AND GITHUB
- ####  DESKTOP DEVELOPMENT
+ #### GIT AND GITHUB
+ #### DESKTOP DEVELOPMENT
  
 [![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,12 +30,13 @@
 ### Currently Learning:
   #### JAVSCRIPT FRAMEWORKS
   #### UI DESIGN WITH ADOBE XD
-  ####  APP DEVELOPMENT WITH IONIC
-  ####  BACKEND WEB DEVELOPMENT
-  ####  C#
+  #### APP DEVELOPMENT WITH IONIC
+  #### BACKEND WEB DEVELOPMENT
+  #### C#
   
   
 ### Want To Learn
+  ####  PC BUILDING
   ####  JAVA AND SPRINGBOOT
   ####  WEB DEVELOPMENT WITH PYTHON (FLASK AND DJANGO)
   ####  UI AND UX DESIGN
@@ -49,12 +50,6 @@
   
 #### View my web resources here:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://user-images.githubusercontent.com/64773763/91462315-aeea6200-e8a7-11ea-9df5-34450322fc06.png)
 
- 
-   #### And last but not the least my profile page . You can view it [here](https://kapoor-aryan.netlify.app)
-   
-  #### THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
-   
-   
-   
+#### And last but not the least my profile page . You can view it [here](https://kapoor-aryan.netlify.app)
 
-
+#### THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
