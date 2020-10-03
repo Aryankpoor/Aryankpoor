@@ -3,7 +3,7 @@
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight)](https://kapoor-aryan.netlify.app)
 
-- 🔭 I’m currently working on A portfolio website. Template available in my repositories. Till then meet me at my netlify page at the bottom of the page.
+- 🔭 I’m currently working on an e-commerce site. It is one of my repo. check it out.
 - 🌱 I’m currently learning Backend web development, Javascript frameworks, and desktop development with some other things
 - 👯 I’m looking to collaborate on a Chat App
 - 🤔 I’m looking for help with building PC
