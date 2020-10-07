@@ -33,7 +33,6 @@
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-  #### JAVSCRIPT FRAMEWORKS
   #### UI DESIGN WITH ADOBE XD
   #### APP DEVELOPMENT WITH IONIC
   #### BACKEND WEB DEVELOPMENT
