@@ -30,6 +30,9 @@
 
  
 ### Currently Learning:
+![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   #### JAVSCRIPT FRAMEWORKS
   #### UI DESIGN WITH ADOBE XD
   #### APP DEVELOPMENT WITH IONIC
@@ -38,14 +41,12 @@
   
   
 ### Want To Learn
-  ####  PC BUILDING
   ####  JAVA AND SPRINGBOOT
-  ####  WEB DEVELOPMENT WITH PYTHON (FLASK AND DJANGO)
+  ####  FLASK AND DJANGO
   ####  UI AND UX DESIGN
-  ####  VERSION CONTROL SYSTEM 
-  #### ![c-sharp](https://user-images.githubusercontent.com/64773763/91462319-af82f880-e8a7-11ea-87fb-5c5aacafec10.png) **C, C++ and C# desktop development**  ![c-](https://user-images.githubusercontent.com/64773763/91462311-adb93500-e8a7-11ea-955c-09708872f816.png)
+  ![c-sharp](https://user-images.githubusercontent.com/64773763/91462319-af82f880-e8a7-11ea-87fb-5c5aacafec10.png) ![c-](https://user-images.githubusercontent.com/64773763/91462311-adb93500-e8a7-11ea-955c-09708872f816.png)
   ####  GODOT
-  ####  FLUTTER ANDD KOTLIN
+  ####  FLUTTER AND KOTLIN
   ####  PENETRATION TESTING AND ETHICAL HACKING
   ####  MOBILE DEVELOPMENT USING JAVA
   ####  UNREAL ENGINE AND UNITY
