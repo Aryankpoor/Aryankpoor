@@ -51,4 +51,4 @@
 
  And last but not the least my profile page . You can view it [here](https://kapoor-aryan.netlify.app)
 
-#### THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
+ THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
