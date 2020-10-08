@@ -52,6 +52,6 @@
   
  View my web resources here:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://user-images.githubusercontent.com/64773763/91462315-aeea6200-e8a7-11ea-9df5-34450322fc06.png)
 
- And last but not the least my profile page . You can view it [here](https://kapoor-aryan.netlify.app)
+ And last but not the least portfolio site . You can view it [here](https://kapoor-aryan.netlify.app)
 
  THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
