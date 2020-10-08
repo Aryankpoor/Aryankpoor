@@ -12,7 +12,7 @@
 - 📫 How to reach me: [click on me!](https://www.instagram.com/__aryan04/)
 - ⚡ Fun fact: I am only 14 years old!!!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills
