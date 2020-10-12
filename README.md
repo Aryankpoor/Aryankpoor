@@ -22,9 +22,9 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
- #### PYTHON
- #### GAME DEVELOPMENT IN PYTHON AND JAVASCRIPT
- #### DESKTOP DEVELOPMENT
+  <br>
+  ![Python](https://img.icons8.com/color/48/000000/python.png)
+  ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
  
 [![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor)](https://github.com/anuraghazra/github-readme-stats)
 
