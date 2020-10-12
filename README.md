@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## I am Aryan Kapoor. Front-end and python developer. 
+<hr>
 [![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__aryan04/)
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight)](https://kapoor-aryan.netlify.app)
@@ -34,22 +35,12 @@
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-  #### UI DESIGN WITH ADOBE XD
-  #### APP DEVELOPMENT WITH IONIC
-  #### BACKEND WEB DEVELOPMENT
-  #### C#
+![Adobe Xd](https://img.icons8.com/color/48/000000/adobe-xd.png)
   
   
-### Want To Learn
-  ####  JAVA AND SPRINGBOOT
-  ####  FLASK AND DJANGO
-  ####  UI AND UX DESIGN
-  ![c-sharp](https://user-images.githubusercontent.com/64773763/91462319-af82f880-e8a7-11ea-87fb-5c5aacafec10.png) ![c-](https://user-images.githubusercontent.com/64773763/91462311-adb93500-e8a7-11ea-955c-09708872f816.png)
-  ####  GODOT
-  ####  FLUTTER AND KOTLIN
-  ####  PENETRATION TESTING AND ETHICAL HACKING
-  ####  MOBILE DEVELOPMENT USING JAVA
-  ####  UNREAL ENGINE AND UNITY
+  
+
+ 
   
  View my web resources here:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://user-images.githubusercontent.com/64773763/91462315-aeea6200-e8a7-11ea-9df5-34450322fc06.png)
 
