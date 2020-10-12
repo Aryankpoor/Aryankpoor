@@ -1,6 +1,5 @@
 ### Hi there 👋
 ## I am Aryan Kapoor. Front-end and python developer. 
-<hr>
 [![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__aryan04/)
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight)](https://kapoor-aryan.netlify.app)
@@ -39,7 +38,7 @@
 ![Adobe Xd](https://img.icons8.com/color/48/000000/adobe-xd.png)
   
   <hr>
- My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://img.icons8.com/color/48/000000/codepen.png)
+ My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) <img src="https://img.icons8.com/color/48/000000/codepen.png">
 
  My portfolio page .  [View it here](https://kapoor-aryan.netlify.app)
 
