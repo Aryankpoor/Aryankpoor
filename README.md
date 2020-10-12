@@ -25,7 +25,8 @@
   <br>
   ![Python](https://img.icons8.com/color/48/000000/python.png)
   ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
- 
+  ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) 
+  
 [![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor)](https://github.com/anuraghazra/github-readme-stats)
 
  
