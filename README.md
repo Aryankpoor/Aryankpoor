@@ -38,14 +38,10 @@
 <br>
 ![Adobe Xd](https://img.icons8.com/color/48/000000/adobe-xd.png)
   
-  
-  
+  <hr>
+ My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://img.icons8.com/color/48/000000/codepen.png)
 
- 
-  
- View my web resources here:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) ![codepen](https://user-images.githubusercontent.com/64773763/91462315-aeea6200-e8a7-11ea-9df5-34450322fc06.png)
-
- And last but not the least portfolio site . You can view it [here](https://kapoor-aryan.netlify.app)
+ My portfolio page .  [View it here](https://kapoor-aryan.netlify.app)
 
  THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
  
