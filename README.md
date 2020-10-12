@@ -37,8 +37,9 @@
 <br>
 ![Adobe Xd](https://img.icons8.com/color/48/000000/adobe-xd.png)
   
-  <hr>
- My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) <img src="https://img.icons8.com/color/48/000000/codepen.png">
+  
+ My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
+ <img src="https://img.icons8.com/color/48/000000/codepen.png">
 
  My portfolio page .  [View it here](https://kapoor-aryan.netlify.app)
 
