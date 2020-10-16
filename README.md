@@ -37,6 +37,10 @@
 <br>
 ![Adobe Xd](https://img.icons8.com/color/48/000000/adobe-xd.png)
   
+  ## My certifications as a developer
+  
+  #### Responsive web design certification from freecodecamp.org
+  ![Freecodecamp responsive web design certification](https://raw.githubusercontent.com/Aryankpoor/Aryankpoor/master/image/Capture.JPG)
   
  My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
  <img src="https://img.icons8.com/color/48/000000/codepen.png">
