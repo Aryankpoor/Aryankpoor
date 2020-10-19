@@ -15,6 +15,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 ### Skills
   
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,7 +36,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 <br>
-![Adobe Xd](https://img.icons8.com/color/48/000000/adobe-xd.png)
   
   ## My certifications as a developer
   
