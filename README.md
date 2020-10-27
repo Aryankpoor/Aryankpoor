@@ -53,4 +53,8 @@
  
  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryankpoor&repo=e-commerce-site&theme=radical)
  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryankpoor&repo=Kapoor-aryan&theme=material-palenight)
- 
+
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankpoor&theme=dark"/>
+</a>
