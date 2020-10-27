@@ -38,7 +38,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 <br>
-  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Aryankpoor)](https://github.com/ryo-ma/github-profile-trophy)
   ## My certifications as a developer
   
   #### Responsive web design certification from freecodecamp.org
