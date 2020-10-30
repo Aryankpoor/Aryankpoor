@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋
+### Hi there 👋![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ## I am Aryan Kapoor. Front-end and python developer. 
 [![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__aryan04/)
 
