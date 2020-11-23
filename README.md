@@ -51,7 +51,7 @@
 
  THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
  
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryankpoor&repo=e-commerce-site&theme=radical)
+ ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryankpoor&repo=Vorizon---e-commerce-site&theme=radical)
  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryankpoor&repo=Kapoor-aryan&theme=material-palenight)
 
 
