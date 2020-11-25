@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on a Chat App
 - 🤔 I’m looking for help with building PC
 - 💬 Ask me anything
-- 📫 How to reach me: [click on me!](https://www.instagram.com/__aryan04/)
+- 📫 How to reach me: [click on me!](https://www.instagram.com/___aryan04/)
 - ⚡ Fun fact: I am only 14 years old!!!!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=react)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,7 +33,6 @@
   
 [![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor)](https://github.com/anuraghazra/github-readme-stats)
 
- 
 ### Currently Learning:
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
