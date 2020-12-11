@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with building PC
 - 💬 Ask me anything
 - 📫 How to reach me: [click on me!](https://www.instagram.com/___aryan04/)
-- ⚡ Fun fact: I am only 14 years old!!!!
+- ⚡ Fun fact: I am only 15 years old!!!!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
