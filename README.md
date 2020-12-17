@@ -5,7 +5,7 @@
 ## I am Aryan Kapoor. Front-end and python developer. 
 [![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__aryan04/)
 
-[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&bg_color=00000000)](https://kapoor-aryan.netlify.app)
+[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)](https://kapoor-aryan.netlify.app)
 
 - 🔭 I’m currently working on an e-commerce site. It is one of my repo. check it out.
 - 🌱 I’m currently learning Backend web development, Javascript frameworks, and desktop development with some other things
@@ -15,7 +15,7 @@
 - 📫 How to reach me: [click on me!](https://www.instagram.com/___aryan04/)
 - ⚡ Fun fact: I am only 15 years old!!!!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=react&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=react&bg_color=00000000&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![image](https://github.com/Aryankpoor/Aryankpoor/blob/master/image/2.JPG?raw=true)
