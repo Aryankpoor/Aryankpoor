@@ -15,7 +15,7 @@
 - 📫 How to reach me: [click on me!](https://www.instagram.com/___aryan04/)
 - ⚡ Fun fact: I am only 15 years old!!!!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=react&bg_color=00000000&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&bg_color=00000000&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![image](https://github.com/Aryankpoor/Aryankpoor/blob/master/image/2.JPG?raw=true)
@@ -31,7 +31,7 @@
   ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
   ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) 
   
-[![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor&bg_color=00000000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently Learning:
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
