@@ -29,9 +29,9 @@
   ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-  ![windows](https://img.shields.io/badge/-windows%20OS-blue)
-  ![vscode](https://img.shields.io/badge/-visual%20studio%20code-grey)
-  ![python](https://img.shields.io/badge/-python-yellow)
+  ![windows](https://img.shields.io/badge/-windows%20OS-blue?style=flat-square)
+  ![vscode](https://img.shields.io/badge/-visual%20studio%20code-grey?style=flat-square)
+  ![python](https://img.shields.io/badge/-python-yellow?style=flat-square)
   
   
   
