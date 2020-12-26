@@ -29,10 +29,12 @@
   ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-  <br>
-  ![Python](https://img.icons8.com/color/48/000000/python.png)
-  ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-  ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) 
+  ![windows](https://img.shields.io/badge/-windows%20OS-blue)
+  ![vscode](https://img.shields.io/badge/-visual%20studio%20code-grey)
+  ![python](https://img.shields.io/badge/-python-yellow)
+  
+  
+  
   
 [![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor&bg_color=00000000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -63,3 +65,5 @@
 </a>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+
+
