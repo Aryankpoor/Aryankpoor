@@ -37,7 +37,7 @@
 [![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor&bg_color=00000000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br>
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=Aryankpoor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   ## My certifications as a developer
   
