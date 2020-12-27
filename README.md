@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on a Chat App
 - 🤔 I’m looking for help with building PC
 - 💬 Ask me anything
-- 📫 How to reach me: [click on me!](https://www.instagram.com/___aryan04/)
+- 📫 How to reach me: [click on me!](mailto:Kapooraryan0419@gmail.com)
 - ⚡ Fun fact: I am only 15 years old!!!!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&bg_color=00000000&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
