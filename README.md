@@ -3,7 +3,7 @@
 
 ### Hi there 👋![My Awesome readme](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ## I am Aryan Kapoor. Front-end and python developer. 
-[![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__aryan04/)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/___aryan04/)
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)](https://kapoor-aryan.netlify.app)
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me: [click on me!](mailto:Kapooraryan0419@gmail.com)
 - ⚡ Fun fact: I am only 15 years old!!!!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&bg_color=00000000&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&bg_color=00000000&theme=synthwave)](https://Aryankpoor.netlify.app)
 
 
 
@@ -36,11 +36,11 @@
   
   
   
-[![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor&bg_color=00000000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor&bg_color=00000000&theme=cobalt)](https://Aryankpoor.netlify.app)
 
 
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Aryankpoor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Aryankpoor&theme=onedark)](https://Aryankpoor.netlify.app)
   ## My certifications as a developer
   
   #### Responsive web design certification from freecodecamp.org
