@@ -52,7 +52,7 @@
  My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
  <img src="https://img.icons8.com/color/48/000000/codepen.png">
 
- My portfolio page .  [View it here](https://aryan-kap.netlify.app/)
+ My portfolio page .  [View it here](https://aryankpoor.netlify.app/)
 
  THANKS FOR READING MY PERSONAL README. :slightly_smiling_face: Hope you liked it.
  
