@@ -49,6 +49,9 @@
   #### Scientific Computing with Python from freecodecamp.org
   ![freecodecamp python certification](https://github.com/Aryankpoor/Aryankpoor/blob/master/Capture.JPG?raw=true)
   
+  #### Javascript Algorithms and Data Structures from freecodecamp.org
+  ![feecodecamp javascript certification](https://i.ibb.co/mq2WQHX/Capture.jpg)
+  
  My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
  <img src="https://img.icons8.com/color/48/000000/codepen.png">
 
