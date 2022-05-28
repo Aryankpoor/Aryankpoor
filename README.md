@@ -7,13 +7,7 @@
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)](https://kapoor-aryan.netlify.app)
 
-- 🔭 I’m currently working on an e-commerce site. It is one of my repo. check it out.
-- 🌱 I’m currently learning Backend web development, Javascript frameworks, and desktop development with some other things
-- 👯 I’m looking to collaborate on a Chat App
-- 🤔 I’m looking for help with building PC
-- 💬 Ask me anything
-- 📫 How to reach me: [click on me!](mailto:Kapooraryan0419@gmail.com)
-- ⚡ Fun fact: I am only 15 years old!!!!
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&bg_color=00000000&theme=synthwave)](https://Aryankpoor.netlify.app)
 
