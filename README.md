@@ -38,13 +38,13 @@
   ## My certifications as a developer
   
   #### Responsive web design certification from freecodecamp.org
-  ![Freecodecamp responsive web design certification](https://raw.githubusercontent.com/Aryankpoor/Aryankpoor/master/image/Capture.JPG)
+  <!-- ![Freecodecamp responsive web design certification](https://raw.githubusercontent.com/Aryankpoor/Aryankpoor/master/image/Capture.JPG) -->
   
   #### Scientific Computing with Python from freecodecamp.org
-  ![freecodecamp python certification](https://github.com/Aryankpoor/Aryankpoor/blob/master/Capture.JPG?raw=true)
+ <!--  ![freecodecamp python certification](https://github.com/Aryankpoor/Aryankpoor/blob/master/Capture.JPG?raw=true) -->
   
   #### Javascript Algorithms and Data Structures from freecodecamp.org
-  ![feecodecamp javascript certification](https://i.ibb.co/mq2WQHX/Capture.jpg)
+ <!-- ![feecodecamp javascript certification](https://i.ibb.co/mq2WQHX/Capture.jpg) -->
   
  My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
  <img src="https://img.icons8.com/color/48/000000/codepen.png">
@@ -57,7 +57,7 @@
  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryankpoor&repo=Kapoor-aryan&theme=material-palenight)
 
 
-https://user-images.githubusercontent.com/64773763/137669135-1f4bbc35-1fda-46b5-842c-d319928edf0c.mp4
+<!-- https://user-images.githubusercontent.com/64773763/137669135-1f4bbc35-1fda-46b5-842c-d319928edf0c.mp4 -->
 
 
 
