@@ -3,7 +3,7 @@
 -->
 ### Hi there 👋
 ## I am Aryan Kapoor. Front-end and python developer. 
-[![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/___aryan04/)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/Aryankkap/)
 
 
 ### Skills
