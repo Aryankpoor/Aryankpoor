@@ -5,13 +5,6 @@
 ## I am Aryan Kapoor. Front-end and python developer. 
 [![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/___aryan04/)
 
-[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)](https://kapoor-aryan.netlify.app)
-
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&bg_color=00000000&theme=synthwave)](https://Aryankpoor.netlify.app)
-
-
 
 ### Skills
   
@@ -52,8 +45,7 @@
  My portfolio page .  [View it here](https://aryankpoor.netlify.app/)
 
  
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryankpoor&repo=Vorizon---e-commerce-site&theme=radical)
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryankpoor&repo=Kapoor-aryan&theme=material-palenight)
+ 
 
 
 <!-- https://user-images.githubusercontent.com/64773763/137669135-1f4bbc35-1fda-46b5-842c-d319928edf0c.mp4 -->
