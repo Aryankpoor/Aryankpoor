@@ -22,22 +22,22 @@
   
   
   
-  <!--
+
 [![Aryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryankapoor&bg_color=00000000&theme=cobalt)](https://Aryankpoor.netlify.app)
--->
+
 
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Aryankpoor&theme=onedark)](https://Aryankpoor.netlify.app)
-  ## My certifications as a developer
+
   
-  #### Responsive web design certification from freecodecamp.org
-  <!-- ![Freecodecamp responsive web design certification](https://raw.githubusercontent.com/Aryankpoor/Aryankpoor/master/image/Capture.JPG) -->
+   <!-- ! #### Responsive web design certification from freecodecamp.org
+  [Freecodecamp responsive web design certification](https://raw.githubusercontent.com/Aryankpoor/Aryankpoor/master/image/Capture.JPG) -->
   
-  #### Scientific Computing with Python from freecodecamp.org
- <!--  ![freecodecamp python certification](https://github.com/Aryankpoor/Aryankpoor/blob/master/Capture.JPG?raw=true) -->
+ <!--  ! #### Scientific Computing with Python from freecodecamp.org
+ [freecodecamp python certification](https://github.com/Aryankpoor/Aryankpoor/blob/master/Capture.JPG?raw=true) -->
   
-  #### Javascript Algorithms and Data Structures from freecodecamp.org
- <!-- ![feecodecamp javascript certification](https://i.ibb.co/mq2WQHX/Capture.jpg) -->
+ <!-- ! #### Javascript Algorithms and Data Structures from freecodecamp.org
+ [feecodecamp javascript certification](https://i.ibb.co/mq2WQHX/Capture.jpg) -->
   
  My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
  <img src="https://img.icons8.com/color/48/000000/codepen.png">
