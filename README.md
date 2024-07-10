@@ -7,7 +7,8 @@
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&custom_title='My_Github_Stats'&rank_icon=percentile&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankpoor&theme=transparent&hide_border=true&layout=donut)](https://github.com/Aryankpoor/github-readme-stats)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Skills
   
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
