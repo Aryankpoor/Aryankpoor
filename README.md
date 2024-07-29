@@ -3,7 +3,7 @@
 -->
 ### Hi there 👋
 ## I am Aryan Kapoor. Front-end and python developer. 
-[![Instagram Link](https://img.shields.io/badge/instagram.com/__aryan04%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/Aryankkap/)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/Aryankkap%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/Aryankkap/)
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&custom_title='My_Github_Stats'&rank_icon=percentile&include_all_commits=true)
 
