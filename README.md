@@ -62,5 +62,4 @@
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-
-
+[![An image of @aryank's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryank)](https://holopin.io/@aryank)
