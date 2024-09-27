@@ -41,14 +41,6 @@
   
  <!-- ! #### Javascript Algorithms and Data Structures from freecodecamp.org
  [feecodecamp javascript certification](https://i.ibb.co/mq2WQHX/Capture.jpg) -->
-  
- My codepen account:  [codepen - Aryan Kapoor](https://codepen.io/codewitharyann) 
- <img src="https://img.icons8.com/color/48/000000/codepen.png">
-
- My portfolio page .  [View it here](https://aryankpoor.netlify.app/)
-
- 
- 
 
 
 <!-- https://user-images.githubusercontent.com/64773763/137669135-1f4bbc35-1fda-46b5-842c-d319928edf0c.mp4 -->
