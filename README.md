@@ -3,7 +3,8 @@
 -->
 ### Hi there 👋
 ## I am Aryan Kapoor. Front-end and python developer. 
-[![Instagram Link](https://img.shields.io/badge/instagram.com/Aryankkap%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/Aryankkap/)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryankpoor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&custom_title='My_Github_Stats'&rank_icon=percentile&include_all_commits=true)
 
@@ -19,8 +20,6 @@
   ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-  ![windows](https://img.shields.io/badge/-blue?style=flat-square&logo=windows)
-  ![vscode](https://img.shields.io/badge/-grey?style=flat-square&logo=visual-studio-code)
   ![python](https://img.shields.io/badge/-yellow?style=flat-square&logo=python)
   
   
@@ -51,7 +50,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankpoor&theme=dark"/>
 </a>
 
-
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![An image of @aryank's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryank)](https://holopin.io/@aryank)
