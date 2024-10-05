@@ -1,7 +1,7 @@
 
 <!-- ![aryan kapoor](https://github.com/Aryankpoor/Aryankpoor/blob/master/image/1.JPG?raw=true)
 -->
-### Hi there 👋
+# Hi there 👋
 ## I am Aryan Kapoor. Front-end and python developer. 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
